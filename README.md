@@ -145,10 +145,5 @@ Simply run the included startup script from the project folder:
 | └── `helper_functions.py`    | Data processing, model tuning, evaluation, and inference utilities |
 
 ---
-
-For queries or collaborations: [adarshrai1903@gmail.com]
-
----
-
 > 🚧 *"Together, we can save lives and build safer roads for everyone."*
 
